@@ -33,7 +33,7 @@ Professional portfolio showcasing reverse engineering skills using Python, C++, 
 - [Embedded Protocol RE](#embedded-protocol-re)
 
 ## Project Structure Template
-
+```
 reverse-engineering/
 ├── projects/
 │ ├── project-name/
@@ -47,7 +47,7 @@ reverse-engineering/
 ├── tools/ # Reusable utilities
 ├── docs/ # Methodology guides
 └── README.md
-
+```
 
 ## Quick Start
 
@@ -59,13 +59,14 @@ reverse-engineering/
 ## Skills Demonstrated
 
 Core Skills:
+```
 ├── Python automation & scripting
 ├── Binary disassembly (Ghidra, IDA Free)
 ├── Debugger proficiency (GDB, x64dbg)
 ├── Malware analysis workflows
 ├── CTF problem solving
 └── Documentation & reproducible research
-
+```
 
 ## Tech Stack
 
