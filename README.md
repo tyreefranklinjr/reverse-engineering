@@ -24,7 +24,7 @@ Professional portfolio showcasing reverse engineering skills using Python, C++, 
 - [Binary Exploitation](#binary-exploitation)
 
 ### 🛡️ Malware Analysis
-- [HashMalwareDetector Analysis](malware-detection/Hash%20Malware%20Detector%20Analysis.md)
+- [Hash Malware Detector Analysis](./hash-detector/Hash-Malware-Detector-Analysis.md)
 - [Dynamic Analysis](#dynamic-analysis)
 - [Behavioral Analysis](#behavioral-analysis)
 
