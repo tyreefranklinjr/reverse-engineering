@@ -6,31 +6,21 @@ Professional portfolio showcasing reverse engineering skills using Python, C++, 
 
 | Project | Description | Tools Used | Difficulty | Status |
 |---------|-------------|------------|------------|--------|
-| [Coming Soon] | Python Crackme Analysis | Python, uncompyle6, dis | Beginner | 📝 In Progress |
-| [Coming Soon] | Binary Exploitation CTF | Ghidra, pwntools, GDB | Intermediate | 📝 In Progress |
-| [Coming Soon] | Malware Sample Analysis | YARA, Volatility, Radare2 | Advanced | 📝 Planned |
-| [Coming Soon] | Firmware Reverse Engineering | Binwalk, Ghidra, UART | Expert | 📝 Planned |
+| [Hashing](./hash-detector/Hash-Malware-Detector-Analysis.md) | Python Crackme Analysis | Python, uncompyle6, dis | Beginner | Complete |
 
 ## Table of Contents
 
 ### 🐍 Python Reverse Engineering
-- [Python Crackme Challenges](#python-crackme-challenges)
-- [Bytecode Analysis](#bytecode-analysis)
-- [Pyc Decompilation](#pyc-decompilation)
+- [Coming Soon](#python-crackme-challenges)
 
 ### 🔧 Binary Analysis
-- [ELF Analysis](#elf-analysis)
-- [PE File Dissection](#pe-file-dissection)
-- [Binary Exploitation](#binary-exploitation)
+- [Coming Soon](#python-crackme-challenges)
 
 ### 🛡️ Malware Analysis
 - [Hash Malware Detector Analysis](./hash-detector/Hash-Malware-Detector-Analysis.md)
-- [Dynamic Analysis](#dynamic-analysis)
-- [Behavioral Analysis](#behavioral-analysis)
 
 ### ⚙️ Firmware & Embedded
-- [Firmware Extraction](#firmware-extraction)
-- [Embedded Protocol RE](#embedded-protocol-re)
+- [Coming Soon](#python-crackme-challenges)
 
 ## Project Structure Template
 ```
@@ -51,7 +41,7 @@ reverse-engineering/
 
 ## Quick Start
 
-1. **Clone**: `git clone https://github.com/YOUR_USERNAME/reverse-engineering`
+1. **Clone**: `git clone https://tyreefranklinjr/reverse-engineering`
 2. **Browse**: Navigate `/projects/` for individual challenges
 3. **Tools**: See `/tools/` for reusable Python automation scripts
 4. **Setup**: Python 3.10+, pip install -r requirements.txt per project
